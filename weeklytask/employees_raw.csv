@@ -1,0 +1,10 @@
+emp_id,name,department,salary,age,experience,join_date
+1,Asha,Sales,45000,26,3,2021-06-15
+2,Ravi,Sales,52000,30,6,2018-03-10
+3,Meena,HR,40000,28,4,2020-01-20
+4,Priya,Finance,,35,10,2014-08-01
+5,Suresh,IT,70000,32,8,2016-09-05
+6,Divya,IT,65000,29,5,2019-11-25
+7,Arun,IT,,40,15,2010-02-14
+8,Karthik,HR,56000,33,9,2015-07-12
+8,Karthik,HR,56000,33,9,2015-07-12

@@ -1,0 +1,4 @@
+Bar chart: IT has the highest average salary and HR has the lowest.
+Histogram: the median salary is 54000.
+Scatter plot: the correlation between experience and salary is 0.29.
+Line chart: the company hired at most 1 employee(s) in any year.
